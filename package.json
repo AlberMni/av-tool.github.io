@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
-    "@joeattardi/emoji-button": "^4.1.0",
+    "@joeattardi/emoji-button": "^4.6.2",
     "@popperjs/core": "^2.9.2",
     "@shopify/draggable": "^1.0.0-beta.8",
     "anchor-js": "^4.3.1",
@@ -71,7 +71,7 @@
     "countup.js": "^2.0.6",
     "dayjs": "^1.9.1",
     "dropzone": "^5.9.2",
-    "echarts": "^5.1.1",
+    "echarts": "^5.2.1",
     "flatpickr": "^4.6.3",
     "fullcalendar": "^5.7.0",
     "glightbox": "^3.0.9",
@@ -84,11 +84,11 @@
     "lottie-web": "^5.7.8",
     "overlayscrollbars": "^1.13.1",
     "plyr": "^3.6.8",
-    "prismjs": "^1.20.0",
+    "prismjs": "^1.27.0",
     "progressbar.js": "^1.1.0",
     "rater-js": "^1.0.1",
     "swiper": "^6.6.2",
-    "tinymce": "^5.8.1",
+    "tinymce": "^5.10.9",
     "typed.js": "^2.0.12"
   },
   "browserslist": [
