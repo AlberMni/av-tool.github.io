@@ -68,7 +68,7 @@
     "bootstrap": "^5.0.2",
     "chart.js": "^3.3.2",
     "choices.js": "^9.0.1",
-    "countup.js": "^2.0.6",
+    "countup.js": "^2.8.0",
     "dayjs": "^1.9.1",
     "dropzone": "^5.9.2",
     "echarts": "^5.1.1",
