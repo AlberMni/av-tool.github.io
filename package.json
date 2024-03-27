@@ -88,7 +88,7 @@
     "progressbar.js": "^1.1.0",
     "rater-js": "^1.0.1",
     "swiper": "^6.6.2",
-    "tinymce": "^5.8.1",
+    "tinymce": "^7.0.0",
     "typed.js": "^2.0.12"
   },
   "browserslist": [
