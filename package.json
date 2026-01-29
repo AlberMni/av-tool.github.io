@@ -80,7 +80,7 @@
     "leaflet.markercluster": "^1.5.0",
     "leaflet.tilelayer.colorfilter": "^1.2.5",
     "list.js": "^2.3.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lottie-web": "^5.7.8",
     "overlayscrollbars": "^1.13.1",
     "plyr": "^3.6.8",
